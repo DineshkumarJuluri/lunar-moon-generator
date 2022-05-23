@@ -1,0 +1,13 @@
+body{
+    background-image: url('/static/images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+}
+
+.container{
+    margin: auto;
+    margin-top: 350px;
+    width: auto;
+    padding: 10px;
+    border-radius: 20px;
+}
